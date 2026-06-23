@@ -1,0 +1,58 @@
+Date : 2026-06-16 11:31:29
+Directory : c:\awso\magnificentMansion
+Total : 20 files,  2673 codes, 2 comments, 90 blanks, all 2765 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      2,031 |          0 |          2 |      2,033 |
+| vue        |          8 |        300 |          0 |         35 |        335 |
+| PostCSS    |          2 |        263 |          1 |         40 |        304 |
+| JavaScript |          2 |         35 |          1 |          7 |         43 |
+| XML        |          4 |         27 |          0 |          2 |         29 |
+| HTML       |          1 |         14 |          0 |          1 |         15 |
+| Markdown   |          1 |          3 |          0 |          3 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                          |         20 |      2,673 |          2 |         90 |      2,765 |
+| . (Files)                                                  |          5 |      2,061 |          1 |          8 |      2,070 |
+| public                                                     |          2 |         25 |          0 |          1 |         26 |
+| src                                                        |         13 |        587 |          1 |         81 |        669 |
+| src (Files)                                                |          3 |        283 |          0 |         44 |        327 |
+| src\assets                                                 |          3 |          7 |          1 |          2 |         10 |
+| src\components                                             |          2 |        136 |          0 |         12 |        148 |
+| src\layouts                                                |          1 |         29 |          0 |          7 |         36 |
+| src\views                                                  |          4 |        132 |          0 |         16 |        148 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                   | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\awso\magnificentMansion\README.md                       | Markdown   |          3 |          0 |          3 |          6 |
+| c:\awso\magnificentMansion\index.html                      | HTML       |         14 |          0 |          1 |         15 |
+| c:\awso\magnificentMansion\package-lock.json               | JSON       |      2,010 |          0 |          1 |      2,011 |
+| c:\awso\magnificentMansion\package.json                    | JSON       |         21 |          0 |          1 |         22 |
+| c:\awso\magnificentMansion\public\favicon.svg              | XML        |          1 |          0 |          0 |          1 |
+| c:\awso\magnificentMansion\public\icons.svg                | XML        |         24 |          0 |          1 |         25 |
+| c:\awso\magnificentMansion\src\App.vue                     | vue        |          3 |          0 |          0 |          3 |
+| c:\awso\magnificentMansion\src\assets\main.css             | PostCSS    |          5 |          1 |          1 |          7 |
+| c:\awso\magnificentMansion\src\assets\vite.svg             | XML        |          1 |          0 |          1 |          2 |
+| c:\awso\magnificentMansion\src\assets\vue.svg              | XML        |          1 |          0 |          0 |          1 |
+| c:\awso\magnificentMansion\src\components\HelloWorld.vue   | vue        |         90 |          0 |          6 |         96 |
+| c:\awso\magnificentMansion\src\components\NavBar.vue       | vue        |         46 |          0 |          6 |         52 |
+| c:\awso\magnificentMansion\src\layouts\DashboardLayout.vue | vue        |         29 |          0 |          7 |         36 |
+| c:\awso\magnificentMansion\src\main.js                     | JavaScript |         22 |          0 |          5 |         27 |
+| c:\awso\magnificentMansion\src\style.css                   | PostCSS    |        258 |          0 |         39 |        297 |
+| c:\awso\magnificentMansion\src\views\HomeView.vue          | vue        |         29 |          0 |          4 |         33 |
+| c:\awso\magnificentMansion\src\views\InquilinoView.vue     | vue        |         41 |          0 |          4 |         45 |
+| c:\awso\magnificentMansion\src\views\ServiciosView.vue     | vue        |         24 |          0 |          4 |         28 |
+| c:\awso\magnificentMansion\src\views\UsuarioView.vue       | vue        |         38 |          0 |          4 |         42 |
+| c:\awso\magnificentMansion\vite.config.js                  | JavaScript |         13 |          1 |          2 |         16 |
+| Total                                                      |            |      2,673 |          2 |         90 |      2,765 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
